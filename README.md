@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 👯 I’m looking to collaborate on **Doc Talk**
+- 👯 I’m looking to collaborate on **Flutter Application**
 
 - 📫 How to reach me **ashishdhakal6@gmail.com**
 
