@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Doctor Appointment](https://appointment-8ca27.web.app/)
 
+- ✨ I'm currently working on many nodejs project and deployed many application on digital ocean and AWS. 
+
 - 🌱 I’m currently learning **Java Spring Boot**
 
 - 👯 I’m looking to collaborate on **Flutter Application**
