@@ -2,11 +2,11 @@
 <h3 align="center">A passionate backend and mobile application developer from Nepal</h3>
 - ✨ I have completed the **IBM Data Science Certification Course from Coursera**.  
 
-- 🔭 I’m currently working on [Doctor Appointment](https://appointment-8ca27.web.app/)
+- 🔭 I’m currently working on **Sentiment Analysis using EEG signal on SEED_IV dataset**.
 
-- ✨ I'm currently working on many AI and Machine Learning Projects.eg(EEG Based Emotion Recognition). 
+- ✨ I have worked on  **AI and Machine Learning Projects.eg(EEG Based Emotion Recognition)** as my final year project. 
 
-- 🌱 I’m currently learning **IBM Watson Tools**
+- 🌱 Have strong understanding on **IBM Watson Tools**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
