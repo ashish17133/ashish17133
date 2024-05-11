@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ghanashyam Dhakal</h1>
 <h3 align="center">A passionate backend and mobile application developer from Nepal</h3>
+- ✨ I have completed the **IBM Data Science Certification Course from Coursera**.  
 
 - 🔭 I’m currently working on [Doctor Appointment](https://appointment-8ca27.web.app/)
 
-- ✨ I'm currently working on many nodejs project and deployed many application on digital ocean and AWS. 
+- ✨ I'm currently working on many AI and Machine Learning Projects.eg(EEG Based Emotion Recognition). 
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **IBM Watson Tools**
 
-- 👯 I’m looking to collaborate on **Flutter Application**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📫 How to reach me **ashishdhakal6@gmail.com**
 
