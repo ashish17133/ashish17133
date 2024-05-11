@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghanashyam Dhakal</h1>
-<h3 align="center">A passionate backend and mobile application developer from Nepal</h3>
+<h3 align="center">A Enthusiastic Machine Learning and AI developer from Nepal</h3>
 - ✨ I have completed the **IBM Data Science Certification Course from Coursera**.  
 
 - 🔭 I’m currently working on **Sentiment Analysis using EEG signal on SEED_IV dataset**.
